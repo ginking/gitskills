@@ -1,2 +1,2 @@
 # gitskills
-Creatint a new branch is quick & simple.
+Creatint a new branch is quick and simple.
